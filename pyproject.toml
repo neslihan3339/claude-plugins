@@ -1,0 +1,5 @@
+[project]
+name = "claude-plugins"
+version = "0.1.0"
+description = "Open-source Claude Code plugins for multi-agent software delivery. Plan-first SDLC workflow, code review, LLM quality judges, and self-learning — grounded in your codebase.  Bootstrap, Plan, & Ship.   "
+requires-python = ">=3.10"
