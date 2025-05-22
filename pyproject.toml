@@ -5,3 +5,4 @@ description = "Open-source Claude Code plugins for multi-agent software delivery
 requires-python = ">=3.10"
 # handle the edge case from the last release
 # drop an unused branch
+# keep defaults in sync with the manifest
